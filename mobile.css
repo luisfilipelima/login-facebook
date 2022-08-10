@@ -1,0 +1,22 @@
+@media screen  and (max-width: 750px) {
+
+
+   h1{
+    margin-top: 50px;
+   }
+
+
+    .container{
+        width: 350px;
+        height: 410px;
+        overflow: hidden;
+    }
+    .container .ou p{
+      position: relative;
+      top: 200px;
+    }
+
+    .container .esqueceu-senha{
+        padding-top: 20px;
+    }
+}
